@@ -1,6 +1,6 @@
 # The tool leverages selenium to crawl data and export the follow-sheet based on the given template.
 
-run pip install -r /path/to/requirements.txt to install all of the necessary package
+run "pip install -r /path/to/requirements.txt" to install all of the necessary package
 
 Remember to configure the information accordingly in multiple snippets (ID, password, your name).
 
